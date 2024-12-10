@@ -1,3 +1,5 @@
+// lawaTeko, Kairatu
+// Melakukan sorting sederhana
 #include <iostream>
 #include <array>
 #include <algorithm>
